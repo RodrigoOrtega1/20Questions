@@ -1,0 +1,30 @@
+Q:
+sabe nadar?
+Q:
+es muy grande?
+Q:
+existio en la epoca de los dinosaurios?
+A:
+megalodon
+A:
+ballena
+Q:
+es carnivoro?
+A:
+tiburon
+A:
+pez
+Q:
+ladra?
+A:
+perro
+Q:
+tiene rayas?
+A:
+zebra
+Q:
+ruje?
+A:
+leon
+A:
+gato
